@@ -1,2 +1,2 @@
 # baetyl-security
-Provide interfaces and SDKs with sufficient security for BAETYL framework.
+Provide sufficient security for BAETYL framework, such as certificates among BAETYL services.
